@@ -32,7 +32,6 @@ cffi==1.14.4
 click==7.1.2
 Command==0.1.0
 cryptography==3.2.1
-datetime
 DateTime
 deep_translator
 dnspython
