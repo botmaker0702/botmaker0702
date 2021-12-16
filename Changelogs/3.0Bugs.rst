@@ -35,5 +35,6 @@
 
 - [LEGENDBOY](http://t.me/The_LegendBoy)
 - ANY BUGS SEND IN COMMENTS
+- `Do .plinfo <plugin name> to know more about it`
 
 </details>
