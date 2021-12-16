@@ -32,6 +32,7 @@
     
     - `Now U can Spam A Group Through Bot Token Add Ur Assistant In Any Group. & Use Command /spam <value> <text>`
 
+    - `Sorry for Command .img Some bugs In image Plugin I fixed it soon`
 
 - [LEGENDBOY](http://t.me/The_LegendBoy)
 - ANY BUGS SEND IN COMMENTS
