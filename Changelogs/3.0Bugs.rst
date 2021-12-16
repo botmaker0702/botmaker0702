@@ -32,8 +32,6 @@
     
     - `Now U can Spam A Group Through Bot Token Add Ur Assistant In Any Group. & Use Command /spam <value> <text>`
 
-## REGARDING
-
 
 - [LEGENDBOY](http://t.me/The_LegendBoy)
 - ANY BUGS SEND IN COMMENTS
