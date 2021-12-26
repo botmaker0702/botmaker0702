@@ -1,2 +1,2 @@
-web: python3 music.py
+web: bash music
 worker: bash LegendBot
