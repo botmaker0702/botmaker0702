@@ -1,2 +1,2 @@
-worker: Music.py
-LegendBot: bash LegendBot
+web: Music.py
+worker: bash LegendBot
