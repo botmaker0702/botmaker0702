@@ -10,7 +10,7 @@ WORKDIR /MUSIC-VC
 
 RUN pip3 install --upgrade pip
 
-CMD python3 main.py
+CMD ["python3", "main.py"]
 
 #Repo Clonning ⚡♥️
 RUN git clone https://github.com/The-LegendBot/LEGENDUSERBOT.git /root/userbot
