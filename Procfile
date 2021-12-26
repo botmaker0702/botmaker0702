@@ -1,3 +1,3 @@
-worker: bash music
+web: bash music
 
 worker: bash LegendBot
