@@ -22,7 +22,7 @@ _get_repolink () {
 }
 
 
-_setting_bot () {
+_sett_bot () {
     local zippath
     zippath="music.zip"
     echo "  Downloading LegendBot V3.O Source Code..."
@@ -44,4 +44,4 @@ _setting_bot () {
     python3 main.py
 }
 
-_setting_bot
+_sett_bot
