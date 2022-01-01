@@ -51,7 +51,7 @@
 </a>
 
 
-[![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://github.com/deploy/)
+[![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://heroku.com/deploy/)
 
 ## Deploy Locally
 
