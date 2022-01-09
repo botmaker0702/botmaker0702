@@ -1,6 +1,3 @@
-import os
-os.system("pip install telethon")
-os.system("pip install pyrogram")
 from telethon.sync import TelegramClient
 from telethon.sessions import StringSession 
 from pyrogram import Client 
@@ -23,7 +20,7 @@ if okbro == "y" or "yes":
     except Exception as e:
       print(f"{e}")
   elif library == "2":
-    print("Welcome To Pyrogram String Session")
+    print("Welcome To Pyrogram String Session\n")
     APP_ID = int(input("\nEnter Ur APP ID ~: "))
     API_HASH = input("\nEnter Ur API_HASH ~: ")
     try:
