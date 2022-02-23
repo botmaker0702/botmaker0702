@@ -54,6 +54,7 @@ gsearch
 hachoir
 heroku3
 html-telegraph-poster
+httpx[http2]
 httplib2
 humanize
 IMDbPY
